@@ -1,14 +1,11 @@
-[
-  {
-    "id": 1,
-    "title": "Sumit kumar"
-  },
-  {
-    "id": 2,
-    "title": "Sonu Singh"
-  },
-  {
-    "id": 3,
-    "title": "Kartik Aryan"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
